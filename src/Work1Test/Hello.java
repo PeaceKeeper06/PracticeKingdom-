@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("Created Git Repository");
         System.out.println("Added Something");
         System.out.println("Added New Word");
+        System.out.println("Added test1 text");
 
     }
 }
